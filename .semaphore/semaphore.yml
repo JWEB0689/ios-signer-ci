@@ -12,5 +12,3 @@ blocks:
           commands:
             - checkout
             - ./sign.sh
-      secrets:
-        - name: ios-signer
