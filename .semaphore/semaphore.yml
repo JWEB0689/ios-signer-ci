@@ -13,4 +13,4 @@ blocks:
             - checkout
             - ./sign.sh
       secrets:
-        - name: spa
+        - name: ipa
