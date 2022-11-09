@@ -12,3 +12,5 @@ blocks:
           commands:
             - checkout
             - ./sign.sh
+      secrets:
+        - name: spa
